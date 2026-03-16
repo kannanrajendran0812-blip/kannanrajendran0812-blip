@@ -41,9 +41,9 @@ I am a **Data Science Graduate** specialized in building data-driven solutions f
 ---
 
 ### 📈 Metrics & Activity
-![](https://github-readme-stats.vercel.app/api?username=kannanrajendran0812-blip&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kannanrajendran0812-blip&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kannanrajendran0812-blip&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kannanrajendran0812-blip&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=kannanrajendran0812-blip&theme=dark&hide_border=false)
+
 
 
 
@@ -57,11 +57,6 @@ I am a **Data Science Graduate** specialized in building data-driven solutions f
 </p>
 
 
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=kannanrajendran0812-blip&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
