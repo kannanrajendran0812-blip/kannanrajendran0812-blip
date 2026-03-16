@@ -1,18 +1,19 @@
 # 👋 Hello, I'm Kannan Rajendran!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BSc_Data_Science-Final_Year-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Actively_Seeking-Internships_%26_Full_Time-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BSc_Data_Science-Graduate-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Actively_Seeking-Full_Time_Opportunities-success?style=for-the-badge" />
+  <a href="[Your Portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 💡 About Me
-I am a **Data Science student** specialized in extracting meaningful patterns from complex datasets. My approach combines statistical rigor with modern machine learning techniques to drive data-informed decision-making.
+I am a **Data Science Graduate** specialized in building data-driven solutions for financial markets and complex systems. I bridge the gap between raw data streams and actionable insights through robust programming and analytical modeling.
 
-- 🔭 **Currently:** Developing a [Project Name/Area] to solve [Problem].
-- 🌱 **Learning:** Deep Learning architectures and  NLP.
-- 💬 **Ask me about:** Python, SQL, and Data Storytelling.
+- 🔭 **Featured Work:** Real-time financial monitoring and risk analytics.
+- 🌐 **Portfolio:** [Check out my full project gallery here](https://kannan-portfolio-1793f.web.app/profiles)
+- 💬 **Let's Talk About:** Fintech, Python, SQL, and Automated Data Pipelines.
 
 ---
 
@@ -20,26 +21,26 @@ I am a **Data Science student** specialized in extracting meaningful patterns fr
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Analysis** | `Python` `R` `SQL` `Pandas` `NumPy` `Excel` |
+| **Analysis** | `Python` `SQL` `R` `Pandas` `NumPy` `Excel` |
 | **Machine Learning** | `Scikit-Learn` `Regression` `Clustering` `NLP` `EDA` |
-| **Visualization** | `Tableau` `Power BI` `Matplotlib` `Seaborn` `Plotly` |
-| **Engineering** | `Git` `Jupyter` `Linux` `GitHub Actions` |
+| **Visualization** | `Streamlit` `Tableau` `Power BI` `Plotly` `Matplotlib` |
+| **Engineering** | `PostgreSQL` `Git` `APIs (NSE/Yahoo)` `GitHub Actions` |
 
 ---
 
 ### 📊 Featured Data Projects
 
-#### 📂 [Project Name 1] | *Lead Data Analyst*
+#### 📈 Nifty50 Live Monitoring Dashboard | *Lead Developer*
+> An institutional-grade real-time dashboard for tracking market volatility and sector performance.
+* **Impact:** Automated live data ingestion from NSE/Yahoo Finance APIs, providing traders with real-time Intraday Charts and Risk-Return distributions.
+* **Stack:** `Python` `Streamlit` `PostgreSQL` `Plotly`
+* 🔗 [**View Code Repository**](https://github.com/kannanrajendran0812-blip/Stock-Live-Monitoring-Dashboard) | 🚀 [**Launch Live Dashboard**](https://nifty50livemonitoring.streamlit.app/)
+
+#### 📂 [Project Name 2] | *Data Scientist*
 > A comprehensive analysis of [Subject] using [Main Tool].
 * **Impact:** Identified key drivers for [Outcome], resulting in a [X%] improvement in [Metric].
 * **Stack:** `Python` `Scikit-Learn` `Random Forest`
-* [**Explore Code**](link) | [**Read Case Study**](link)
-
-#### 📂 [Project Name 2] | *Visualization Specialist*
-> Interactive end-to-end dashboard for tracking [KPIs].
-* **Impact:** Reduced reporting time by [X] hours per week through automated data pipelines.
-* **Stack:** `SQL` `PostgreSQL` `Tableau`
-* [**View Dashboard**](link)
+* 🔗 [**View Code Repository**]([Your Link])
 
 ---
 
@@ -51,11 +52,13 @@ I am a **Data Science student** specialized in extracting meaningful patterns fr
 
 ---
 
-### 📫 Connect with me:
+### 📫 Let's Connect!
 <p align="left">
-<a href="linkedin.com/in/kannan-rajendran-b43330354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your Name]" height="30" width="40" /></a>
-<a href="mailto:[Your Email Address]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="[Your Name]" height="30" width="40" /></a>
+<a href="linkedin.com/in/kannan-rajendran-b43330354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/simplydatahub?igsh=MWc1NjcwOHJpcHVqaQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="mailto:" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+<a href="https://kannan-portfolio-1793f.web.app/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/globe--v1.png" alt="Portfolio" height="30" width="35" /></a>
 </p>
 
 ---
-*“Data is the new oil, but it’s only useful when refined.”*
+*“In God we trust, all others must bring data.” – W. Edwards Deming*
