@@ -41,8 +41,10 @@ I am a **Data Science Graduate** specialized in building data-driven solutions f
 ---
 
 ### 📈 Metrics & Activity
-![](https://github-readme-stats.vercel.app/api?username=kannanrajendran0812-blip&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=kannanrajendran0812-blip&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kannanrajendran0812-blip&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="150" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kannanrajendran0812-blip&theme=dark&hide_border=false" alt="GitHub Streak" height="150" style="display:inline-block;"/>
+</p>
 
 
 
