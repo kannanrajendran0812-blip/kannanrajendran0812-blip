@@ -32,7 +32,7 @@ I am a **Data Science Graduate** specialized in building data-driven solutions f
 
 ### 📊 Featured Data Projects
 
-#### 📈 Nifty50 Live Monitoring Dashboard | *Lead Developer*
+#### 📈 Nifty50 Live Monitoring Dashboard
 > An institutional-grade real-time dashboard for tracking market volatility and sector performance.
 * **Impact:** Automated live data ingestion from NSE/Yahoo Finance APIs, providing traders with real-time Intraday Charts and Risk-Return distributions.
 * **Stack:** `Python` `Streamlit` `PostgreSQL` `Plotly`
@@ -42,9 +42,10 @@ I am a **Data Science Graduate** specialized in building data-driven solutions f
 
 ### 📈 Metrics & Activity
 <p align="center">
-  <img height="180em" src="https://github.com/kannanrajendran0812-blip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Kannan's GitHub Stats" />
-  <img height="180em" src="https://github.com/kannanrajendran0812-blip&layout=compact&theme=tokyonight" alt="Kannan's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kannanrajendran0812-blip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Kannan's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannanrajendran0812-blip&layout=compact&theme=tokyonight" alt="Kannan's Top Languages" />
 </p>
+
 
 ---
 
