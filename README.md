@@ -1,4 +1,4 @@
-# 🚀 Data Science Portfolio | [Your Name]
+# 👋 Hello, I'm Kannan Rajendran!
 
 <p align="center">
   <img src="https://img.shields.io/badge/BSc_Data_Science-Final_Year-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
@@ -11,7 +11,7 @@
 I am a **Data Science student** specialized in extracting meaningful patterns from complex datasets. My approach combines statistical rigor with modern machine learning techniques to drive data-informed decision-making.
 
 - 🔭 **Currently:** Developing a [Project Name/Area] to solve [Problem].
-- 🌱 **Learning:** Deep Learning architectures and Advanced NLP.
+- 🌱 **Learning:** Deep Learning architectures and  NLP.
 - 💬 **Ask me about:** Python, SQL, and Data Storytelling.
 
 ---
@@ -53,7 +53,7 @@ I am a **Data Science student** specialized in extracting meaningful patterns fr
 
 ### 📫 Connect with me:
 <p align="left">
-<a href="[Your LinkedIn URL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your Name]" height="30" width="40" /></a>
+<a href="linkedin.com/in/kannan-rajendran-b43330354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your Name]" height="30" width="40" /></a>
 <a href="mailto:[Your Email Address]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="[Your Name]" height="30" width="40" /></a>
 </p>
 
