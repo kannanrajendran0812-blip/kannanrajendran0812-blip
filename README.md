@@ -41,10 +41,10 @@ I am a **Data Science Graduate** specialized in building data-driven solutions f
 ---
 
 ### 📈 Metrics & Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kannanrajendran0812-blip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannanrajendran0812-blip&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=kannanrajendran0812-blip&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kannanrajendran0812-blip&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kannanrajendran0812-blip&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ---
@@ -56,5 +56,13 @@ I am a **Data Science Graduate** specialized in building data-driven solutions f
 <a href="https://kannan-portfolio-1793f.web.app/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/globe--v1.png" alt="Portfolio" height="30" width="35" /></a>
 </p>
 
+
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=kannanrajendran0812-blip&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 *“In God we trust, all others must bring data.” – W. Edwards Deming*
