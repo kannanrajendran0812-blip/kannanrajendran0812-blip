@@ -1,9 +1,14 @@
-# 👋 Hello, I'm Kannan Rajendran!
 
+<!-- 🔥 Animated Background Banner -->
+
+<!-- ✨ Typing Animation -->
+<!-- ✨ Typing Animation -->
+
+
+
+# 👋 Hello, I'm Kannan Rajendran!
 <p align="center">
-  <img src="https://img.shields.io/badge/BSc_Data_Science-Graduate-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Actively_Seeking-Full_Time_Opportunities-success?style=for-the-badge" />
-  <a href="https://kannan-portfolio-1793f.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=1100&lines=Kannan+Rajendran+-+Data+Scientist;6+Months+Experience+as+Data+Analyst;Searching+for+Internship+in+Mumbai;Featured+Projects:+Stocks+Live+Monitoring+Dashboard;Building+Data+Projects+%7C+Machine+Learning+%7C+Dashboards;Python+SQL+R+Pandas+NumPy+Excel;Machine+Learning:+Regression+Clustering+NLP+EDA;Visualization:+Power+BI+Tableau+Plotly+Matplotlib;Engineering:+PostgreSQL+Git+APIs+GitHub+Actions;Let's+Connect:+LinkedIn+%7C+Portfolio+%7C+Instagram" />
 </p>
 
 ---
@@ -32,7 +37,7 @@ I am a **Data Science Graduate** specialized in building data-driven solutions f
 
 ### 📊 Featured Data Projects
 
-#### 📈 Nifty50 Live Monitoring Dashboard
+#### 📈Stocks Live Monitoring Dashboard
 > An institutional-grade real-time dashboard for tracking market volatility and sector performance.
 * **Impact:** Automated live data ingestion from NSE/Yahoo Finance APIs, providing traders with real-time Intraday Charts and Risk-Return distributions.
 * **Stack:** `Python` `Streamlit` `PostgreSQL` `Plotly`
