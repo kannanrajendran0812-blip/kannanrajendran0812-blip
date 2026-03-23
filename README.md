@@ -34,9 +34,20 @@ I am a **Data Science Graduate** specialized in building data-driven solutions f
 
 #### 📈 Nifty50 Live Monitoring Dashboard
 > An institutional-grade real-time dashboard for tracking market volatility and sector performance.
+
 * **Impact:** Automated live data ingestion from NSE/Yahoo Finance APIs, providing traders with real-time Intraday Charts and Risk-Return distributions.
 * **Stack:** `Python` `Streamlit` `PostgreSQL` `Plotly`
-* 🔗 [**View Code Repository**](https://github.com/kannanrajendran0812-blip/Stock-Live-Monitoring-Dashboard) | 🚀 [**Launch Live Dashboard**](https://nifty50livemonitoring.streamlit.app/)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kannanrajendran0812-blip/Stock-Live-Monitoring-Dashboard/main/assets/qr_code.png" width="160"/>
+
+### 📱 Scan for Live Dashboard Access
+
+</div>
+
+* 🔗 [**View Code Repository**](https://github.com/kannanrajendran0812-blip/Stock-Live-Monitoring-Dashboard)
+| 🚀 [**Launch Live Dashboard**](https://nifty50livemonitoring.streamlit.app/)
 
 ---
 
